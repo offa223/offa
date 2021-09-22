@@ -1,59 +1,156 @@
-#EXTM3U
-#EXTINF:-1,beIN SPORTS EXTRA 1
-http://rv.bleutv.net:80/307211401032/307211401032/163902
-#EXTINF:-1,beIN SPORTS EXTRA 2
-http://rv.bleutv.net:80/307211401032/307211401032/176146
-#EXTINF:-1,Bein Sport HD
-http://rv.bleutv.net:80/307211401032/307211401032/163931
-#EXTINF:-1,Bein Sport News HD
-http://rv.bleutv.net:80/307211401032/307211401032/163930
-#EXTINF:-1,Bein Sport NBA HD
-http://rv.bleutv.net:80/307211401032/307211401032/163913
-#EXTINF:-1,Bein Sports Premium 1 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163929
-#EXTINF:-1,beIN SPORTS 1 PREMIUM
-http://rv.bleutv.net:80/307211401032/307211401032/163912
-#EXTINF:-1,Bein Sports Premium 2 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163928
-#EXTINF:-1,beIN SPORTS 2 PREMIUM
-http://rv.bleutv.net:80/307211401032/307211401032/163911
-#EXTINF:-1,Bein Sports Premium 3 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163927
-#EXTINF:-1,beIN SPORTS 3 PREMIUM
-http://rv.bleutv.net:80/307211401032/307211401032/163910
-#EXTINF:-1,Bein Sports HD1 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163926
-#EXTINF:-1,beIN SPORTS 1
-http://rv.bleutv.net:80/307211401032/307211401032/163909
-#EXTINF:-1,Bein Sports HD2 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163925
-#EXTINF:-1,beIN SPORTS 2
-http://rv.bleutv.net:80/307211401032/307211401032/163908
-#EXTINF:-1,Bein Sports HD3 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163924
-#EXTINF:-1,beIN SPORTS 3
-http://rv.bleutv.net:80/307211401032/307211401032/163907
-#EXTINF:-1,Bein Sports HD4 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163923
-#EXTINF:-1,beIN SPORTS 4
-http://rv.bleutv.net:80/307211401032/307211401032/163906
-#EXTINF:-1,Bein Sports HD5 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163922
-#EXTINF:-1,beIN SPORTS 5
-http://rv.bleutv.net:80/307211401032/307211401032/163905
-#EXTINF:-1,Bein Sports HD6 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163921
-#EXTINF:-1,beIN SPORTS 6
-http://rv.bleutv.net:80/307211401032/307211401032/163904
-#EXTINF:-1,Bein Sports HD7 HD
-http://rv.bleutv.net:80/307211401032/307211401032/163920
-#EXTINF:-1,beIN SPORTS 7
-http://rv.bleutv.net:80/307211401032/307211401032/163903
-#EXTINF:-1,Bein Sports English HD1
-http://rv.bleutv.net:80/307211401032/307211401032/163914
-#EXTINF:-1,beIN SPORTS 1 EN
-http://rv.bleutv.net:80/307211401032/307211401032/163897
-#EXTINF:-1,Bein Sports English HD2
-http://rv.bleutv.net:80/307211401032/307211401032/163918
-#EXTINF:-1,beIN SPORTS 2 EN
-http://rv.bleutv.net:80/307211401032/307211401032/163901
+#EXTINF:-1,AR: beIN SPORTS LOW1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/62
+#EXTINF:-1,AR: beIN SPORTS LOW2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/63
+#EXTINF:-1,AR: beIN SPORTS LOW3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/64
+#EXTINF:-1,AR: beIN SPORTS LOW4
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/65
+#EXTINF:-1,AR: beIN SPORTS LOW5
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/66
+#EXTINF:-1,AR:bein sport low6
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/2108
+#EXTINF:-1,AR:bein sport low7
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/2109
+#EXTINF:-1,AR:bein sport low8
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/2110
+#EXTINF:-1,AR:bein sport low9
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/2111
+#EXTINF:-1,AR: bein sport low10
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/2112
+#EXTINF:-1,AR: beIN SPORTS SD1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/56
+#EXTINF:-1,AR: beIN SPORTS SD2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/57
+#EXTINF:-1,AR: beIN SPORTS SD3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/58
+#EXTINF:-1,AR: beIN SPORTS SD4
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/59
+#EXTINF:-1,AR: beIN SPORTS SD5
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/60
+#EXTINF:-1,AR: beIN SPORTS SD6
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/93
+#EXTINF:-1,AR: beIN SPORTS SD7
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/92
+#EXTINF:-1,AR: beIN SPORTS SD8
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/91
+#EXTINF:-1,AR: beIN SPORTS SD9
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/61
+#EXTINF:-1,AR: beIN SPORTS SD10
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/1459
+#EXTINF:-1,AR: beIN Sports 1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/459
+#EXTINF:-1,AR: beIN Sports 2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/450
+#EXTINF:-1,AR: beIN Sports 3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/451
+#EXTINF:-1,AR: beIN Sports 1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/452
+#EXTINF:-1,AR: beIN Sports 2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/453
+#EXTINF:-1,AR: beIN Sports 3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/454
+#EXTINF:-1,AR: beIN Sports 4
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/455
+#EXTINF:-1,AR: beIN Sports 5
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/456
+#EXTINF:-1,AR: beIN Sports 6
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/457
+#EXTINF:-1,AR: beIN Sports 7
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/458
+#EXTINF:-1,AR: beIN SPORTS HD1 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/46
+#EXTINF:-1,AR: beIN SPORTS HD2 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/47
+#EXTINF:-1,AR: beIN SPORTS HD3 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/48
+#EXTINF:-1,AR: beIN SPORTS HD1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/49
+#EXTINF:-1,AR: beIN SPORTS HD2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/50
+#EXTINF:-1,AR: beIN SPORTS HD3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/51
+#EXTINF:-1,AR: beIN SPORTS HD4
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/52
+#EXTINF:-1,AR: beIN SPORTS HD5
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/53
+#EXTINF:-1,AR: beIN SPORTS HD6
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/54
+#EXTINF:-1,AR: beIN SPORTS HD7
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/55
+#EXTINF:-1,AR: beIN SPORTS HD11
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3001
+#EXTINF:-1,AR: beIN SPORTS HD12
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3002
+#EXTINF:-1,beIN SPORTS FullHD1 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3221
+#EXTINF:-1,beIN SPORTS FullHD2 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3222
+#EXTINF:-1,beIN SPORTS FullHD3 PR
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3223
+#EXTINF:-1,beIN SPORTS FullHD1
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3224
+#EXTINF:-1,beIN SPORTS FullHD2
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3225
+#EXTINF:-1,beIN SPORTS FullHD3
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3226
+#EXTINF:-1,beIN SPORTS FullHD4
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3230
+#EXTINF:-1,beIN SPORTS FullHD5
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3227
+#EXTINF:-1,beIN SPORTS FullHD6
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3228
+#EXTINF:-1,beIN SPORTS FullHD7
+#EXTVLCOPT:http-user-agent=apzq0etryyf096viq1zhhi
+http://kaicerfree.ddns.net:8080/ZTOrJrXiFi/lZ0tRcigWv/3229
